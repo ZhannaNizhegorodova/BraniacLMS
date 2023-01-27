@@ -1,0 +1,11 @@
+--2023-01-27 12:09:41--  https://raw.githubusercontent.com/github/gitignore/main/Global/JetBrains.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1592 (1,6K) [text/plain]
+Saving to: ‘JetBrains.gitignore’
+
+     0K .                                                     100% 31,8M=0s
+
+2023-01-27 12:09:41 (31,8 MB/s) - ‘JetBrains.gitignore’ saved [1592/1592]
+
