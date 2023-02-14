@@ -9,3 +9,4 @@
 [2023-02-14 13:55:40,782] DEBUG mainapp.views (67) Yet another log message
 [2023-02-14 13:55:49,849] DEBUG mainapp.views (67) Yet another log message
 [2023-02-14 13:55:54,338] DEBUG mainapp.views (67) Yet another log message
+[2023-02-14 14:46:13,056] INFO mainapp.tasks (14) Send message: '{'user_id': '3', 'message': 'Hello everyone!'}'
